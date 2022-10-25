@@ -30,3 +30,4 @@ This program is similar to calculator.cpp but it has some salient features.
 *   It itself identifies any error in user's input and allows the user to correct it. 
 *   It also asks the user if he/she wants to perform any other operation with the same numbers.
 *   and then repeat all the steps again and again.
+*   It also has come extra desoration and detailing.
